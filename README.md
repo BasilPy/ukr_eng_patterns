@@ -1,6 +1,6 @@
 # ukr_eng_patterns
 This project can help to teach or to learn English, Ukrainian or any other language.
-Tutorial for Goolge's API https://www.youtube.com/watch?v=ddf5Z0aQPzY
+Tutorial to set Goolge API up: https://www.youtube.com/watch?v=ddf5Z0aQPzY
 
 1. First part of code set everything up for instance of Google sheets client.
 ![Screen Shot 2023-03-11 at 12 19 00](https://user-images.githubusercontent.com/106767931/224468633-c02bc50a-dc8d-4f97-bb75-02a4b650a8c0.png)
