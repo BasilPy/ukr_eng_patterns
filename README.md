@@ -15,3 +15,6 @@ Tutorial for Goolge's API https://www.youtube.com/watch?v=ddf5Z0aQPzY
 - Second for loop using update_cell method to send formula GOOGLETRANSLATE to column of google sheet on the left of column filled with previous for loop.
 ![Screen Shot 2023-03-11 at 12 23 39](https://user-images.githubusercontent.com/106767931/224469102-c7160cdc-5ed9-46cf-8724-306368ca4485.png)
 
+result:
+
+![gif_result](https://user-images.githubusercontent.com/106767931/224469795-a35f7280-5eaa-49ea-8fe5-a93d9aa240a5.gif)
